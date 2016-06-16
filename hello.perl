@@ -6,4 +6,4 @@ Jim is a boy!(add from dev branch).
 Smith is a man(master).
 test --no-off parameter
 merge dev with --no-off parameter
-
+fix bug 101
