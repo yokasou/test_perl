@@ -7,3 +7,4 @@ Smith is a man(master).
 test --no-off parameter
 merge dev with --no-off parameter
 fix bug 101
+test fetch part files.
