@@ -12,3 +12,5 @@ fetch sub directory and update some changes.
 branch 2:update some changes.
 branch 1:update.
 test --amend command->do some changes.->edit file content.
+-------------------------------
+test:git checkout  --file
